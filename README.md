@@ -53,7 +53,7 @@ This repository has the following docs:
             Value: (Default) 'USA'.
             
             CVV Match?:
-            Value: (Default) checked (True).
+            Value: (Default) unchecked (True).
             
             IP Reputation Score (0-1):
             Value: (Default) 0.75.
