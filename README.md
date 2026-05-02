@@ -2,9 +2,9 @@ This Fraud Detection App has a purpose to predict fraudulent transactions accord
 
 This repository has the following docs:
 
-1. fraud_detection_app.ipynb : Starting this notebook, we look the notebook architecture. In this file we find all the data analysis, modeling and web app contruction.
+1. fraud_app_UI.png : An image with the UI app view.
 
-2. fraud_app.png : An image with the UI app view.
+2. fraud_detection_app.ipynb : Starting this notebook, we look the notebook architecture. In this file we find all the data analysis, modeling and web app contruction.
 
 3. fraudulent_1.png : Image as example with the first fraud completition brackets altering the following fields:
 
